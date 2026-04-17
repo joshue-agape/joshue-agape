@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Joshue Agape
+# 👋 Hi, I'm Joshué Agapé
 
 💻 **Full-Stack Developer (DevOps Oriented)**  
 🚀 Passionate about development, I focus on building innovative solutions while continuously enhancing my technical expertise.  
@@ -12,7 +12,7 @@
 Flutter • React Native  
 
 ### 🎨 Frontend
-Vue • React • Next.js • Angular  
+Vue • Nuxt • React • Next.js • Angular  
 
 ### ⚙️ Backend
 Node.js • Express • NestJS • FastAPI • Django • Flask • PHP  
@@ -25,6 +25,9 @@ Tailwind CSS • Bootstrap
 
 ### 🧰 Tools & DevOps
 Git • Docker • Jenkins  
+
+### 🧰 UI Libraries  
+Primevue • Quasar • Vuetify • Material UI • Hero UI • React bootstrap • Shadcn ui • Chakra UI • Ant design • Primereact • Element Plus • Bootstrap vue • PrimeNG • Angular Material • Native Expo  
 
 ---
 
