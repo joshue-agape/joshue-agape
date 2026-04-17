@@ -48,5 +48,7 @@ Primevue • Quasar • Vuetify • Material UI • Hero UI • React bootstrap 
 
 ## ⚡ About Me
 
-I enjoy turning complex problems into simple, beautiful, and efficient solutions.  
-Always learning, always building. 🚀
+Web and mobile developer with 3+ years of experience, focused on building modern, scalable, and user-centric applications. I grow through continuous learning and real-world projects, with a strong commitment to quality, maintainability, and performance.
+
+I turn complex problems into clean, efficient, and intuitive solutions.  
+Driven by curiosity and a passion for building. 🚀
