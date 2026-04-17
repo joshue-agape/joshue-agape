@@ -1,18 +1,49 @@
-# 👋 Hi, I'm Josh
+# 👋 Hi, I'm Joshue Agape
 
-💻 Fullstack Developer  
-🚀 Passionate about React, Next.js & Algorithms  
-📍 Based in Singapore  
+💻 **Full-Stack Developer (DevOps Oriented)**  
+🚀 Passionate about development, I focus on building innovative solutions while continuously enhancing my technical expertise.
+📍 Fianarantsoa, Madagascar  
+
+---
 
 ## 🛠 Tech Stack
-- Frontend: React, Next.js, MUI
-- Backend: Node.js, Express
-- Database: MongoDB
 
-## 📌 Projects
-- 🔗 Dijkstra Visualizer (React + Graph)
-- 🔗 Portfolio Website
+### 📱 Mobile
+Flutter • React Native  
+
+### 🎨 Frontend
+Vue • React • Next.js • Angular  
+
+### ⚙️ Backend
+Node.js • Express • NestJS • FastAPI • Django • Flask • PHP  
+
+### 🗄️ Database
+MongoDB • MySQL • PostgreSQL  
+
+### 🎨 Styling
+Tailwind CSS • Bootstrap  
+
+### 🧰 Tools & DevOps
+Git • Docker • Jenkins  
+
+---
+
+## 📌 Featured Projects
+
+- 🚀 **Portfolio Website**  
+  🔗 [Live Demo]([https://ton-site.com](https://raharison-joshue-agape-folio.vercel.app/)) | [Source Code](https://github.com/joshue-agape/portfolio)  
+  Personal portfolio showcasing my projects and skills
+
+---
 
 ## 📫 Contact
-- Email: your@email.com
-- LinkedIn: your-linkedin
+
+📧 Email: agapedev.dark@gmail.com  
+📱 Phone: +261 34 24 393 87 / +261 33 68 473 73  
+
+---
+
+## ⚡ About Me
+
+I enjoy turning complex problems into simple, beautiful, and efficient solutions.  
+Always learning, always building. 🚀
