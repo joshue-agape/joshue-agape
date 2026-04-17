@@ -8,26 +8,13 @@
 
 ## 🛠 Tech Stack
 
-### 📱 Mobile
-Flutter • React Native  
-
-### 🎨 Frontend
-Vue • Nuxt • React • Next.js • Angular  
-
-### ⚙️ Backend
-Node.js • Express • NestJS • FastAPI • Django • Flask • PHP  
-
-### 🗄️ Database
-MongoDB • MySQL • PostgreSQL  
-
-### 🎨 Styling
-Tailwind CSS • Bootstrap  
-
-### 🧰 Tools & DevOps
-Git • Docker • Jenkins  
-
-### 🧰 UI Libraries  
-Primevue • Quasar • Vuetify • Material UI • Hero UI • React bootstrap • Shadcn ui • Chakra UI • Ant design • Primereact • Element Plus • Bootstrap vue • PrimeNG • Angular Material • Native Expo  
+📱 Mobile: Flutter • React Native  
+🎨 Frontend: Vue • Nuxt • React • Next.js • Angular  
+⚙️ Backend: Node.js • Express • NestJS • FastAPI • Django • Flask • PHP  
+🗄️ Database: MongoDB • MySQL • PostgreSQL  
+🎨 Styling: Tailwind CSS • Bootstrap  
+🧰 Tools & DevOps: Git • Docker • Jenkins  
+🧩 UI Libraries: PrimeVue • Quasar • Vuetify • Material UI • Hero UI • React Bootstrap • shadcn/ui • Chakra UI • Ant Design • PrimeReact • Element Plus • BootstrapVue • PrimeNG • Angular Material • Expo  
 
 ---
 
