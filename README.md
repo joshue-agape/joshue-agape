@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Joshue Agape
 
 💻 **Full-Stack Developer (DevOps Oriented)**  
-🚀 Passionate about development, I focus on building innovative solutions while continuously enhancing my technical expertise.
+🚀 Passionate about development, I focus on building innovative solutions while continuously enhancing my technical expertise.  
 📍 Fianarantsoa, Madagascar  
 
 ---
@@ -31,7 +31,7 @@ Git • Docker • Jenkins
 ## 📌 Featured Projects
 
 - 🚀 **Portfolio Website**  
-  🔗 [Live Demo]([https://ton-site.com](https://raharison-joshue-agape-folio.vercel.app/)) | [Source Code](https://github.com/joshue-agape/portfolio)  
+  🔗 [Live Demo](https://raharison-joshue-agape-folio.vercel.app) | [Source Code](https://github.com/joshue-agape/portfolio)  
   Personal portfolio showcasing my projects and skills
 
 ---
