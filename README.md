@@ -35,6 +35,15 @@
 A modern personal portfolio website showcasing my projects, technical skills, and experience.  
 Designed with a focus on performance, clean UI, and responsive design.
 
+### 🚀 Portfolio Website (v2.0)
+**Stack:** Front-end: React.js
+
+🔗 **Live Demo:** https://raharison-joshue-agape-folio.vercel.app  
+📂 **Source Code:** https://github.com/agapeJoshue/raharison-joshue-agape-folio  
+
+A modern personal portfolio website showcasing my projects, technical skills, and experience.  
+Designed with a focus on performance, clean UI, and responsive design.
+
 ---
 
 ## 📫 Contact
