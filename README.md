@@ -2,7 +2,10 @@
 
 💻 **Full-Stack Developer (DevOps Oriented)**  
 🚀 Passionate about development, I focus on building innovative solutions while continuously enhancing my technical expertise.  
-📍 Fianarantsoa, Madagascar  
+📍 [Ankofafa Fianarantsoa 301, Madagascar](google.com/maps/place/Domicile/@-21.423063,47.1112567,212m/data=!3m1!1e3!4m13!1m7!3m6!1s0x21e7b8f54d4eb89d:0x8cca8c8e4af937ab!2sAnkofafa+Health+Centre!8m2!3d-21.4167!4d47.1167!16s%2Fg%2F11t0rn15zx!3m4!1s0x21e7b8f1f2fd94e5:0xf9b87ff063f3ede8!8m2!3d-21.4228643!4d47.111392?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D)  
+
+🔗 **Portfolio Live Demo:** https://raharison-joshue-agape-folio.vercel.app  
+📂 **Portfolio Source Code:** https://github.com/agapeJoshue/raharison-joshue-agape-folio  
 
 ---
 
@@ -21,28 +24,6 @@
 🧰 Tools & DevOps: Git • Docker • Jenkins  
 
 🧩 UI Libraries: PrimeVue • Quasar • Vuetify • Material UI • Hero UI • React Bootstrap • shadcn/ui • Chakra UI • Ant Design • PrimeReact • Element Plus • BootstrapVue • PrimeNG • Angular Material • Expo  
-
----
-
-## 📌 Featured Projects
-
-### 🚀 Portfolio Website (v1.0)
-**Stack:** Front-end: Vue.js + PrimeVue | Back-end: FastAPI
-
-🔗 **Live Demo:** https://raharison-joshue-agape-folio.vercel.app  
-📂 **Source Code:** https://github.com/agapeJoshue/raharison-joshue-agape-folio  
-
-A modern personal portfolio website showcasing my projects, technical skills, and experience.  
-Designed with a focus on performance, clean UI, and responsive design.
-
-### 🚀 Portfolio Website (v2.0)
-**Stack:** Front-end: React.js
-
-🔗 **Live Demo:** https://raharison-joshue-agape-folio.vercel.app  
-📂 **Source Code:** https://github.com/agapeJoshue/raharison-joshue-agape-folio  
-
-A modern personal portfolio website showcasing my projects, technical skills, and experience.  
-Designed with a focus on performance, clean UI, and responsive design.
 
 ---
 
